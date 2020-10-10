@@ -1,0 +1,921 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1499px) {
+    #menuBar2Top .menuBar2TopContainer>ul>li {
+        width: 104px !important;
+        padding: 0px 14px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer {
+        width: 124%;
+        left: -11px;
+    }
+    #dashboardHeader .headerRightMenu ul li {
+        margin-left: 5px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li a svg{
+        height: 13px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li a p {
+        font-size: 10px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer li a {
+        font-size: 13px;
+        padding: 8px 15px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        padding: 21px 23px 15px 22px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown .dropdown-menu ul li a p {
+        font-size: 10px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span img {
+        height: 31px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h4 {
+        font-size: 20px;
+        top: 1px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h5 {
+        font-size: 10px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .right h5 {
+        font-size: 9px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer #myChart {
+        height: 240px !important;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem {
+        margin-bottom: 28px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox {
+        padding: 13px 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox h3 {
+        font-size: 13px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer {
+        margin-top: 10px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox{
+        margin-top: 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox {
+        padding: 13px 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .topTitle .left h3{
+        font-size: 13px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox #myChart2 {
+        height: 215px !important;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox{
+        padding: 13px 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .topTitle h3{
+        font-size: 13px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox{
+        margin-top: 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox #myChart3 {
+        height: 215px !important;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea {
+        padding: 14px 9px 12px 9px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left span img {
+        height: 40px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left h4 {
+        font-size: 20px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left h5 {
+        font-size: 13px;
+        margin-top: 0px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left {
+        padding-left: 0px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 span {
+        font-size: 18px;
+        top: 0px;
+        margin-right: 1px;
+        display: block;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 {
+        font-size: 12px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart {
+        margin-top: 21px;
+        padding: 0px 0px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 {
+        font-size: 13px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 span {
+        font-size: 16px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer {
+        margin-top: 105px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer .performaceMetterBox .svgMetter svg {
+        height: 89px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox {
+        padding: 20px 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox .chartBox #myChart4 {
+        height: 246px !important;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox .chartBox {
+        margin-top: 54px;
+    }
+}
+@media (min-width: 1500px) and (max-width: 1709px) {
+    #menuBar2Top .menuBar2TopContainer>ul>li {
+        width: 125px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li a svg{
+        height: 13px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li a p {
+        font-size: 10px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer li a {
+        font-size: 13px;
+        padding: 8px 15px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        padding: 21px 23px 15px 22px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown .dropdown-menu ul li a p {
+        font-size: 10px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span img {
+        height: 44px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h4 {
+        font-size: 27px;
+        top: 1px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h5 {
+        font-size: 12px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox {
+        padding: 13px 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox h3 {
+        font-size: 13px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer {
+        margin-top: 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox{
+        margin-top: 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox {
+        padding: 13px 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .topTitle .left h3{
+        font-size: 13px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox #myChart2 {
+        height: 246px !important;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox{
+        padding: 13px 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .topTitle h3{
+        font-size: 13px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox{
+        margin-top: 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox #myChart3 {
+        height: 258px !important;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea {
+        padding: 22px 13px 19px 17px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left span img {
+        height: 40px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left h4 {
+        font-size: 20px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left h5 {
+        font-size: 13px;
+        margin-top: 0px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left {
+        padding-left: 0px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 span {
+        font-size: 18px;
+        top: 0px;
+        margin-right: 1px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 {
+        font-size: 12px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart {
+        margin-top: 21px;
+        padding: 0px 0px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 {
+        font-size: 13px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 span {
+        font-size: 16px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer {
+        margin-top: 36px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer .performaceMetterBox .svgMetter svg {
+        height: 144px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox {
+        padding: 20px 21px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox .chartBox #myChart4 {
+        height: 246px !important;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+   
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #userLogin{
+        padding: 50px 0px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .amount1Bottom {
+        padding-right: 37px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .amount1Bottom h4 span {
+        margin-left: 59px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .discountAmmount{
+        padding-right: 37px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .discountAmmount h4 span{
+        margin-left: 59px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .gstAmmount{
+        padding-right: 37px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .gstAmmount h4 span{
+        margin-left: 59px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li a svg{
+        display: none;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li{
+        margin-left: 0px !important;
+        padding: 5px 10px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li {
+        width: auto;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li a p{
+        font-size: 9px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown {
+        top: 0px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown button.dropdownbtnMain{
+        height: auto !important;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown button.dropdownbtnMain{
+        width: auto !important;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown .dropdown-menu ul li a svg {
+        display: block;
+        margin: 0 auto;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown .dropdown-menu ul li a p {
+        font-size: 10px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer {
+        width: 145px;
+        left: -24px;
+    }
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer li a {
+        font-size: 12px;
+    }
+    #topMenuBar3 .topMenuBar3Container ul li a {
+        font-size: 11px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        margin-bottom: 10px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea {
+        margin-bottom: 10px;
+    }
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #userLogin{
+        padding: 50px 0px;
+    }
+    #invoiceHeader .invoiceHeaderContainer {
+        padding: 25px 30px 30px 30px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h4 {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h5{
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h3 {
+        font-size: 13px;
+        margin-top: 20px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .right h4 {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .companyInfo ul li {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .left h3 {
+        font-size: 26px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable {
+        padding-right: 20px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .right h4 {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer {
+        padding: 50px 29px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol li {
+        font-size: 14px;
+        width: 90%;
+
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol li{
+        font-size: 14px;
+        width: 90%;
+    }
+    .hide_md{
+        display: none !important;
+    }
+    .show_md{
+        display: block !important;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        padding: 16px 20px;
+        background: #FFFFFF;
+        margin-bottom: 11px;
+    }
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span img {
+        height: 38px;
+    }
+#mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h4 {
+    font-size: 24px;
+    top: 0px;
+}
+#mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h5 {
+    font-size: 11px;
+}
+#mainDashboardContentArea .dashbordContentContainer .performanceBox {
+    padding: 15px 20px;
+}
+#mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer {
+    margin-top: 14px;
+}
+#mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer #myChart {
+    height: 236px !important;
+}
+#mainDashboardContentArea .dashbordContentContainer .orientationBox {
+    padding: 15px 20px;
+}
+#mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox #myChart2 {
+    height: 228px !important;
+}
+#mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox{
+    padding: 15px 20px;
+}
+#mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox{
+    margin-top: 30px;
+}
+#mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox #myChart3 {
+    height: 236px !important;
+}
+#mainDashboardContentArea .dashbordContentContainer .leadBoxArea {
+    padding: 20px 15px;
+}
+#mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 span {
+    font-size: 17px;
+    display: block;
+}
+#mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 {
+    font-size: 13px;
+}
+#mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item {
+    margin-bottom: 17px;
+}
+#mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox {
+    padding: 20px;
+    margin-top: 10px;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li a {
+    padding: 6px 19px;
+    font-size: 12px;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li {
+    display: inline-block;
+    margin-left: 1px;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerMainTableContent{
+    overflow-x: scroll;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerMainTableContent .table {
+    width: 1200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 767px) {
+    .show_mobile{
+        display: block !important;
+    }
+    .hide_mobile{
+        display: none !important;
+    }
+    header#dashboardHeader .logoArea {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    header#dashboardHeader .logoArea img{
+        height: 24px;
+    }
+.headerRightMenu.text-right {
+    text-align: center !important;
+}
+#dashboardHeader .headerRightMenu ul li #notificationsDropDown .dropdown-menu {
+    width: 337px;
+    left: -181px !important;
+}
+#dashboardHeader .headerRightMenu ul li #notificationsDropDown .dropdown-menu .notificationsTop .left h3 {
+    font-size: 12px;
+}
+#dashboardHeader .headerRightMenu ul li #notificationsDropDown .dropdown-menu .notificationsTop .right ul li .clearNoti {
+    border: 1px solid #E5E5E5;
+    border-radius: 4px;
+    font-family: "Heebo",sans-serif;
+    font-weight: 600;
+    color: #6C6C6C;
+    width: auto;
+    padding: 6px 10px;
+    font-size: 11px;
+}
+#topMenuBar3 .topMenuBar3Container {
+    padding-left: 0px;
+}
+#topMenuBar3 .topMenuBar3Container ul{
+    text-align: center;
+}
+#topMenuBar3 .topMenuBar3Container ul li a {
+    font-size: 10px;
+}
+#topMenuBar3 .topMenuBar3Container ul li {
+    display: inline-block;
+    margin-right: 0px;
+    margin: 0px 2px;
+}
+.mpl0{
+    padding-left: 0px !important;
+}
+.mpr0{
+    padding-right: 0px !important;
+}
+#topMenuBar3{
+    overflow-x: hidden !important; 
+}
+#topMenuBar3 .topMenuBar3Container ul li a img {
+    margin-right: 0px;
+    height: 13px;
+}
+#mennubar2MobileMenu .menuMobileContainer .card .mobileMenuLink>ul li a.subCollaspeBtn:after{
+    background: transparent;
+    color: #232323;
+}
+#mennubar2MobileMenu .menuMobileContainer .card .mobileMenuLink>ul li a {
+    font-weight: 700;
+    font-size: 13px;
+}
+#mennubar2MobileMenu .menuMobileContainer .card .mobileMenuLink>ul li a.subCollaspeBtn[aria-expanded="true"]:after {
+    background: transparent;
+    color: #fff;
+}
+#mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span svg {
+    height: 40px;
+}
+#mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span {
+    margin-bottom: 19px;
+    margin-right: 10px;
+}
+#mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h4 {
+    font-size: 25px;
+    top: 0px;
+}
+#mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h5 {
+    font-size: 11px;
+}
+#mainDashboardContentArea .dashbordContentContainer .performanceBox {
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#mainDashboardContentArea .dashbordContentContainer .orientationBox{
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox{
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#mainDashboardContentArea .dashbordContentContainer .leadBoxArea{
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 span {
+    font-size: 15px;
+    display: block;
+    top: 0px;
+}
+#mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 {
+    font-size: 13px;
+}
+#mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 span {
+    font-size: 15px;
+    top: 0px;
+    display: block;
+}
+#mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 {
+    font-size: 13px;
+}
+#mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox{
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox{
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer .performaceMetterBox .svgMetter svg {
+    height: 99px;
+    margin-bottom: 12px;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .left .searchBox {
+    width: 100%;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right{
+    text-align: center !important;
+    margin-top: 20px;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li a {
+    padding: 5px 13px;
+    font-size: 11px;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox {
+    padding: 17px 22px;
+    background: #fff;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li {
+    display: inline-block;
+    margin-left: 0px;
+    margin: 0px 3px;
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerMainTableContent{
+    overflow-x: scroll !important; 
+}
+#mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerMainTableContent .table {
+    width: 1200px;
+}
+#dashboardFooter .footerCopyright p {
+    font-size: 9px;
+}
+.footerLogo a img{
+    height: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #userLogin{
+        padding: 20px 0px;
+    }
+    #userLogin .loginContainer .loginMainContainer {
+        padding: 38px 50px;
+        width: 100%;
+
+    }
+    #userLogin .loginContainer {
+        justify-content: center;
+        width: 100%;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable {
+        overflow-x: scroll;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .right h4{
+        text-align: left;
+        margin-top: 11px;
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol {
+        margin-top: 25px;
+        padding-left: 35px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol li {
+        font-size: 14px;
+        width: 100%;
+        margin-bottom: 5px;
+        line-height: 22px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol{
+        margin-top: 25px;
+        padding-left: 35px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol li{
+        font-size: 14px;
+        width: 100%;
+        margin-bottom: 5px;
+        line-height: 22px;
+    }
+    #invoiceHeader .invoiceHeaderContainer {
+        padding: 18px 33px 18px 33px;;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h4 {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h5 {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h3 {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .companyInfo ul li {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea {
+        margin-top: 34px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .left h3 {
+        font-size: 22px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .right h4 {
+        font-size: 14px;
+        text-align: left;
+        margin-top: 7px;
+        padding-left: 2px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer {
+        padding: 20px 44px;
+    }
+    #topMenuBar3 .topMenuBar3Container ul li a {
+        font-size: 12px;
+    }
+#topMenuBar3 .topMenuBar3Container ul li {
+    margin: 0px 10px;
+}
+#dashboardHeader .headerRightMenu ul li #notificationsDropDown .dropdown-menu {
+    width: 408px;
+    left: -211px !important;
+}
+#mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer .performaceMetterBox .svgMetter svg {
+    height: 134px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    .mpl0{
+        padding-left: 0px !important;
+    }
+    .mpr0{
+        padding-right: 0px !important;
+    }
+    #userLogin{
+        padding: 20px 0px;
+    }
+    #userLogin .loginContainer .loginMainContainer {
+        padding: 38px 20px;
+        width: 100%;
+
+    }
+    #userLogin .loginContainer {
+        justify-content: center;
+        width: 100%;
+    }
+    #userLogin .loginContainer .loginMainContainer .info {
+        margin-top: 25px;
+    }
+    #userLogin .loginContainer .loginMainContainer .formArea {
+        margin-top: 29px;
+    }
+    #userLogin .loginContainer .loginMainContainer .formArea .dontHaveAccount {
+        margin-top: 29px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer {
+        padding: 50px 20px;
+        background: #fff;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable {
+        overflow-x: scroll;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .right h4{
+        text-align: left;
+        margin-top: 11px;
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol {
+        margin-top: 25px;
+        padding-left: 35px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol li {
+        font-size: 14px;
+        width: 100%;
+        margin-bottom: 5px;
+        line-height: 22px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol{
+        margin-top: 25px;
+        padding-left: 35px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol li{
+        font-size: 14px;
+        width: 100%;
+        margin-bottom: 5px;
+        line-height: 22px;
+    }
+    #invoiceHeader .invoiceHeaderContainer {
+        padding: 18px 33px 18px 33px;;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h4 {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h5 {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h3 {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .companyInfo ul li {
+        font-size: 14px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea {
+        margin-top: 34px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .left h3 {
+        font-size: 22px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .right h4 {
+        font-size: 14px;
+        text-align: left;
+        margin-top: 7px;
+        padding-left: 2px;
+    }
+    #invoiceMainArea .invoiceMainAreaContainer {
+        padding: 14px 19px;
+    }
+    #invoiceMainArea .invoiceFooter .invoiceFooterContainer .right{
+        text-align: center !important;
+        margin-top: 5px;
+    }
+    #invoiceMainArea .invoiceFooter .invoiceFooterContainer .left{
+        text-align: center !important;
+    }
+    #invoiceMainArea .invoiceFooter {
+        padding: 0px 16px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
